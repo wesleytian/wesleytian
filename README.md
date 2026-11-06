@@ -11,4 +11,6 @@ Before that I was a founding engineer at two venture-backed startups and an engi
 - [**personal-crm**](https://github.com/wesleytian/personal-crm): a local personal CRM that reads your messages and call history to help you keep in touch
 - [**portfolio-tracker**](https://github.com/wesleytian/portfolio-tracker): tracks angel and private investments, with valuations, returns, pacing, and deal pipeline
 
+**Older:** [thermostat-pro](https://github.com/wesleytian/thermostat-pro), a programmable thermostat for window ACs (firmware, circuit board, and app) · [roshambo-god](https://github.com/wesleytian/roshambo-god), a rock-paper-scissors AI using Bayes' theorem
+
 **Elsewhere:** [wesleytian.com](https://wesleytian.com) · [X](https://x.com/wesleytian) · [LinkedIn](https://www.linkedin.com/in/wesleytian/)
