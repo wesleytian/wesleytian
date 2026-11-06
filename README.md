@@ -8,6 +8,7 @@ Before that I was a founding engineer at two venture-backed startups and an engi
 
 - [**homebase**](https://github.com/wesleytian/homebase): one place for your goals, habits, to-dos, and reflections
 - [**character-sheet**](https://github.com/wesleytian/character-sheet): your life as a roguelike character sheet, with quests, skills, health stats, and an atlas
-- [**personal-crm**](https://github.com/wesleytian/personal-crm): a local personal CRM that reads your messages and call history to help you keep in touch, plus a private-investment portfolio tracker
+- [**personal-crm**](https://github.com/wesleytian/personal-crm): a local personal CRM that reads your messages and call history to help you keep in touch
+- [**portfolio-tracker**](https://github.com/wesleytian/portfolio-tracker): tracks angel and private investments, with valuations, returns, pacing, and deal pipeline
 
 **Elsewhere:** [wesleytian.com](https://wesleytian.com) · [X](https://x.com/wesleytian) · [LinkedIn](https://www.linkedin.com/in/wesleytian/)
